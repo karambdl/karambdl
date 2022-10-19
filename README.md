@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @karambdl
 - 👀 I’m interested in IOT
-- 🌱 I’m currently learning embeded linux
+- 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me : mohamedkaram.boudali@esprit.tn
 
 <!---
 karambdl/karambdl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
